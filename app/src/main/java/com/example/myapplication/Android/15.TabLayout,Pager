@@ -1,0 +1,12 @@
+
+
+15. TabLayout , Pager
+
+Pager
+- 종이 넘기듯이 메인화면을 넘겨주는 역할
+
+TabLayout
+- tab을 담당하는 역할 ( 카카오톡 아랫부분 )
+
+Adapter
+- Tablayout과 Pager을 연결해주는 역할
